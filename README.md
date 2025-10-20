@@ -19,7 +19,7 @@ Welcome to my **Achievements Repository** — this is a collection of my **Lette
 
 ## 🏆 Awards
 - [Top 5% Performer – Amity University](./Awards/Top5_Performer_Award.pdf)
-- [Outstanding Volunteer Recognition – University Event 2022](./Awards/Volunteer_Award.pdf)
+- [Outstanding Volunteer Recognition – University Event 2021](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/Volenteer_Asadbek_Kholdarov.pdf)
 - [Best Capstone Project Award – Huawei Internship](./Awards/Capstone_Project_Award.pdf)
 
 ---
