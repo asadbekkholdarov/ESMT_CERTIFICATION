@@ -24,13 +24,13 @@ Welcome to my **Achievements Repository** — this is a collection of my **Lette
 
 ---
 
-## 💬 About
+## 💬 Programming
 I’m a passionate **Software Engineer** with experience in **Node.js, React, MongoDB**, and **Data Science fundamentals**.  
 This repository serves as a transparent and professional portfolio of my achievements.
 
 ---
 
 📫 **Contact me:**  
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: 507asadali@gmail.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/asadbek-kholdarov)  
+- GitHub: [github.com/yourusername](https://github.com/asadbekkholdarov/)
