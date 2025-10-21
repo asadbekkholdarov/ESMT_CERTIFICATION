@@ -5,28 +5,30 @@ Welcome to my **Achievements Repository** — this is a collection of my **Lette
 ---
 
 ## 📜 Letters of Recommendation (LORs)
-- [LOR from Professor John Smith, Amity University](./LORs/LOR_Professor_John_Smith.pdf)
-- [LOR from Project Supervisor at Huawei](./LORs/LOR_Huawei_Supervisor.pdf)
+- [LOR from Professor Pratap Patil, Amity University](./https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/LOR_Asadbek_kholdarov.pdf)
+- [LOR from Professor Gauraw Agarwal](./https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/MR_Asadbek_LOR.pdf)
 
 ---
 
 ## 🎓 Certifications
-- [JavaScript Developer Certificate – freeCodeCamp](./Certifications/JavaScript_Developer.pdf)
-- [MongoDB for Developers – MongoDB University](./Certifications/MongoDB_Developer.pdf)
-- [Python Programming – Coursera](./Certifications/Python_Programming.pdf)
+- [Microsoft Power BI analyst](https://learn.microsoft.com/en-us/users/asadbekkholdarov-4322/credentials/7678bbc15032eb7)
+- [PySpark for Big Data](./https://www.udemy.com/certificate/UC-b897f832-ffcc-42b8-b517-36a6876e7d35/)
+- [Hackerrank - SQL advanced](./https://www.hackerrank.com/certificates/a060c15e1c63)
+- [Hackerrank - SQL intermediate](./https://www.hackerrank.com/certificates/18d62ab4d2ee)
+- [Python Programming](./https://www.hackerrank.com/certificates/d1e62f303ebf)
+
 
 ---
 
 ## 🏆 Awards
-- [Top 5% Performer – Amity University](./Awards/Top5_Performer_Award.pdf)
-- [Outstanding Volunteer Recognition – University Event 2021](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/Volenteer_Asadbek_Kholdarov.pdf)
-- [Best Capstone Project Award – Huawei Internship](./Awards/Capstone_Project_Award.pdf)
+- [Top 1.5% Performer – Codewars.com](./https://www.codewars.com/users/asadbekkholdarov)
+- [Leetcode profile](./https://leetcode.com/u/asadbekkholdarov)
+- [Codeforces - Specialist](./https://codeforces.com/profile/asadbekkholdarov)
 
 ---
 
 ## 💬 Programming
-I’m a passionate **Software Engineer** with experience in **Node.js, React, MongoDB**, and **Data Science fundamentals**.  
-This repository serves as a transparent and professional portfolio of my achievements.
+Python | Pandas | SQL | R | Statistics 
 
 ---
 
