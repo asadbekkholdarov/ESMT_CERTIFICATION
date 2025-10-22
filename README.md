@@ -7,7 +7,8 @@ Welcome to my **Achievements Repository** — this is a collection of my **Lette
 - [Video APPLYING](https://youtu.be/bhKiFjbPevY)
 
 ## 📜 Letters of Recommendation (LORs)
-- [ESMT_DEGREE_PROGRAMS_APPLICANT_RECOMMENDATION_FORM](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/ESMT_Degree_Programs_Applicant_Recommendation_Form_(Asadbek_Kholdarov)_FORM.pdf)
+- [ESMT_DEGREE_PROGRAMS_APPLICANT_RECOMMENDATION_FORM_FROM APPLICATION FORM](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/ESMT_Degree_Programs_Applicant_Recommendation_Form_(Asadbek_Kholdarov)_FORM.pdf)
+- 
 - [LOR from Professor Pratap Patil, Amity University](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/LOR_Asadbek_kholdarov.pdf)
 - [LOR from Professor Gauraw Agarwal](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/Mr%20Asadbek%20LOR.pdf)
 
