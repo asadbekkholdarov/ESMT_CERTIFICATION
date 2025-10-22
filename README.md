@@ -3,6 +3,8 @@
 Welcome to my **Achievements Repository** — this is a collection of my **Letters of Recommendation**, **Certifications**, and **Awards** that highlight my academic and professional journey.
 
 ---
+## Video for my appying
+- [Video APPLYING](https://youtu.be/bhKiFjbPevY)
 
 ## 📜 Letters of Recommendation (LORs)
 - [LOR from Professor Pratap Patil, Amity University](https://github.com/asadbekkholdarov/ESMT_CERTIFICATION/blob/main/LOR_Asadbek_kholdarov.pdf)
